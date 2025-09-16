@@ -18,7 +18,5 @@ public class atividade10 {
         }else{
             System.out.println("A letra " + letra + " está em minúsculo.");
         }
-
-        scanner.close();
     }
 }
